@@ -1,0 +1,3 @@
+rootProject.name = 'birdCage'
+
+include ':app'
